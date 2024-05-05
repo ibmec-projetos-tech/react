@@ -31,7 +31,7 @@ Após o NPX terminar de executar, perceba que um novo diretório foi criado com 
 
 Além disso, o terminal irá apresentar alguns comandos iniciais para começarmos a trabalhar na nossa aplicação:
 
-|![Imagem que demonstra os comandos básicos do npm para usar o create-react-app](img/npm-commands.png)|
+|![Imagem que demonstra os comandos básicos do npm para usar o create-react-app](npm-commands.png)|
 |:--:|
 | Imagem que demonstra os comandos básicos do npm para usar o create-react-app |
 
@@ -44,7 +44,7 @@ npm start
 
 O comando `npm start` é um `script` predefinido pelo _React_ que inicia o servidor da sua aplicação. Utilizando esse comando, uma nova página deverá abrir no seu navegador, contendo a sua aplicação. Se você seguiu os passos até aqui, algo parecido com o exemplo abaixo deverá aparecer na sua tela, o que significa que tudo está funcionando corretamente.
 
-|![Imagem que demonstra que tudo funciona corretamente, mostrada no navegador](img/all-done.png)|
+|![Imagem que demonstra que tudo funciona corretamente, mostrada no navegador](all-done.png)|
 |:--:|
 | Imagem que demonstra que tudo funciona corretamente, mostrada no navegador |
 
