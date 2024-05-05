@@ -198,11 +198,6 @@ Você pode pensar que uma classe e uma função são exatamente a mesma coisa, a
 
 Em `React`, classe é uma das formas de renderizar os componentes na página. Então, quando um componente precisa ser alterado, utilizamos componentes de classe, para que possamos utilizar seus estados para realizar essas alterações.
 
-Podemos atribuir vários `métodos`, os quais podem, inclusive, alterar o próprio estado do objeto. Por enquanto, só precisamos saber que `métodos` existem e não precisamos nos preocupar, pois veremos com detalhes os `métodos de classe` mais adiante em `React`, junto com `estado da aplicação`.
-
-Mas não se preocupe, pois você verá isso em breve, com muito mais detalhamento.
-
-<iframe src="https://player.vimeo.com/video/455999516" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 A principal diferença entre o uso de componentes por classe e o uso de componentes por função reside no fato de aqueles gerados por classe terem acesso a métodos e ao estado próprios de qualquer componente React gerado via classe, como o método `render()`, que te permite renderizar todo o conteúdo criado na tela, os quais são acessíveis somente por componentes criados por classe na maior parte das versões do React. A sintaxe para criar um componente com classes é a seguinte:
 
@@ -217,5 +212,3 @@ class ReactClass extends React.Component {
   }
 }
 ```
-
-<iframe src="https://player.vimeo.com/video/456001191" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
